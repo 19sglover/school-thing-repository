@@ -1,2 +1,2 @@
-# school-thing-repository
-Repository for school things amiright
+# recap
+html and css recap

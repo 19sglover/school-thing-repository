@@ -4,7 +4,38 @@
 }
 
 header {
-    background-color: rgb(98, 187, 214);
+    background-color: rgb(109, 207, 84);
     padding: 5px;
-    border: 5px solid #000000;
+    border-bottom: 2px rgb(26, 70, 17) solid;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    padding: 0px 20px 0px 20px;
+}
+.main {
+    background-color: rgb(228, 240, 63);
+    padding: 10px;
+    display: flex;
+}
+
+.textblock {
+    max-width: 50%;
+}
+.textblock2 {
+    background-color: brown;
+}
+
+#drugs {
+    color: lime;
+}
+
+.main img {
+    max-width: 50%;
+}
+
+body {
+    background-color: crimson;
 }

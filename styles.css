@@ -39,3 +39,16 @@ nav {
 body {
     background-color: crimson;
 }
+
+@media only screen and (max-width: 500px) {
+    body {
+        color: yellow;
+        text-decoration: line-through;
+    }
+    .main {
+        background-color: peru;
+    }
+    .textblock {
+        background-color: cadetblue;
+    }
+}
